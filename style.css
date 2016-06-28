@@ -1,0 +1,63 @@
+body {
+  margin: 50px;
+  background: #373277;
+  color: #9795B8;
+}
+
+.col-md-8 {
+  
+}
+
+.clock {
+  background: #55518B;
+
+
+  border-radius: 50%;
+  height: 300px;
+
+}
+
+.title {
+  margin-top: 25%;
+}
+
+.clock h1 {
+  vertical-align: middle;
+}
+
+.start, .reset {
+  height: 100px;
+}
+
+.breaktime, .timertime {
+
+  border-radius: 10px;
+  height: 75px;
+}
+
+.minusbreak, .minustime {
+  padding-right: 10px;
+}
+
+.plusbreak, .plustime {
+  padding-left: 10px;
+}
+
+.row {
+  margin: 5px;
+}
+
+.breaktime h3 {
+  margin-top: 0px;
+}
+
+.timertime h3 {
+  margin-top: 0px;
+}
+
+p {
+
+}
+
+
+
