@@ -1,5 +1,5 @@
 # pomodoro-clock
-FCC Full Stack Project
+FCC Front End Project
 
 # DEMO
 Hosted at: https://aball6412.github.io/
